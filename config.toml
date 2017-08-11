@@ -1,4 +1,4 @@
-baseurl             = "https://aleccunningham.xyz/"
+baseurl             = "http://aleccunningham.xyz/"
 builddrafts         = false
 canonifyurls        = true
 contentdir          = "content"
@@ -7,7 +7,7 @@ layoutdir           = "layouts"
 publishdir          = "public"
 theme               = "cocoa"
 author              = "Alec Cunningham"
-title               = "Sample Title"
+title               = "did this change anything"
 pygmentsuseclasses  = true
 #disqusshortname     = "cocoaexamplesite" # Comment out to disable Disqus.
 pluralizelisttitles = false
