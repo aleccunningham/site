@@ -1,18 +1,18 @@
-+++
-date = "2015-08-22T06:42:21-07:00"
-draft = false
-title = "About"
+I like computers
 
-+++
+I post here:
+- [Facebook](https://www.facebook.com/alec.cunningham)
+- [Twitter](https://twitter.com/accunningham96)
 
-Along with [Ford Prefect](https://en.wikipedia.org/wiki/Ford_Prefect_\(character\)), Dent barely escapes the Earth's destruction as it is demolished to make way for a *hyperspace bypass*. Arthur spends the next several years, still wearing his dressing gown, helplessly launched from crisis to crisis while trying to straighten out his lifestyle. 
+If you really need to know:
 
-> He rather enjoys tea, but seems to have trouble obtaining it in the far reaches of the galaxy. 
-
-In time, he learns how to fly and carves a niche for himself as a sandwich-maker.
-
-<img src="//placehold.it/300x300" class="profile">
-
-<br />
-
-[About this site](colophon/)
+- Languages: Python, Go, Bash
+- Platforms: UNIX, OSX
+- Specialty: DevOps and Cloud Architecture
+- Tools: 
+  - (Containers) Docker, Kubernetes, hyperv, Vagrant
+  - (Production) Google Cloud Platform, Terraform
+  - (DevOps) Gitlab, Jenkins, Ansible, Microservices 
+  - (What I'd call myself) Cloud Architect, DevOps Engineer, a Tenor Saxophone Player
+  
+ 
