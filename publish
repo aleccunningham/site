@@ -2,4 +2,22 @@
 
 # $1 is the commit message
 
-cd content && hugo && git add . && git commit -m "$1" && git push
+usage () {
+    cat <<HELP_USAGE
+    Usage:
+      public "commit message"
+HELP_USAGE
+  exit 0
+}
+
+if [ $# == 0 ];
+then
+  usage
+  exit 2
+fi
+
+cd /Home/alec/code/xyz
+hugo
+cd content/
+git add .
+git commit -m "$1" && git push
